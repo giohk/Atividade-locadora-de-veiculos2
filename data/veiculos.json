@@ -1,0 +1,26 @@
+[
+    {
+        "tipo": "Carro",
+        "modelo": "Ferrari",
+        "placa": "ABC1D23",
+        "disponivel": false
+    },
+    {
+        "tipo": "Moto",
+        "modelo": "Harley Davidson",
+        "placa": "EFG4H56",
+        "disponivel": true
+    },
+    {
+        "tipo": "Carro",
+        "modelo": "Celta",
+        "placa": "IJK7L89",
+        "disponivel": true
+    },
+    {
+        "tipo": "Moto",
+        "modelo": "Royal enfilds",
+        "placa": "MNO1P32",
+        "disponivel": false
+    }
+]
